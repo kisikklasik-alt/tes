@@ -20,7 +20,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=BOT%20ZAPO&fontSize=72&fontAlignY=36&animation=fadeIn&desc=WhatsApp%20Bot%20%E2%80%A2%20Bun%20%E2%80%A2%20zapo-js%20%E2%80%A2%20Termux%20Ready&descAlignY=58&descSize=18&fontColor=ffffff" alt="Bot Zapo banner" width="100%"/>
 
 <!-- ░░░ GIF UTAMA (GANTI URL) ░░░ -->
-<img src="GANTI-URL-GIF-HEADER" alt="Bot Zapo preview" width="720"/>
+<img src="https://h.uguu.se/YHRSAqTG.mp4" alt="Bot Zapo preview" width="720"/>
 
 <!-- ░░░ TEKS KETIK ANIMASI ░░░ -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
